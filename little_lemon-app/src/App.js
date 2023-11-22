@@ -8,10 +8,11 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
-    {/* Header section */}
-    <Header/>
     {/* Navigation section */}
     <Nav/>
+
+    {/* Header section */}
+    <Header/>
     {/* Main Content section */}
     <Main/>
     {/* Footer section */}
